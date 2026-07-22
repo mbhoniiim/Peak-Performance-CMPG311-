@@ -1,4 +1,4 @@
-# 🏋️ Peak Performance Gym Database Management System
+#  Peak Performance Gym Database Management System
 
 A comprehensive relational database management system developed for **CMPG311** that streamlines the daily operations of a fitness gym. The system manages members, memberships, trainers, classes, bookings, attendance, payments, equipment usage, and reporting using **Oracle SQL Developer**.
 
